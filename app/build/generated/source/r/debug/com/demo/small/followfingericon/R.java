@@ -3174,6 +3174,12 @@ public final class R {
   public static final class mipmap {
     public static final int ic_launcher=0x7f0a0000;
     public static final int ic_launcher_round=0x7f0a0001;
+    public static final int icon1=0x7f0a0002;
+    public static final int icon2=0x7f0a0003;
+    public static final int icon3=0x7f0a0004;
+    public static final int icon4=0x7f0a0005;
+    public static final int icon5=0x7f0a0006;
+    public static final int icon6=0x7f0a0007;
   }
   public static final class string {
     public static final int abc_action_bar_home_description=0x7f0b0000;
