@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a539f0f5b4a0c92127a776934708f3da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4360ff12674898aa5e83145f0c9cd075/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9ac952505fc95767898c20ad960ba3dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5b411c72b1a35cdfd1efc8decbe57acc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/469bf3e26574f1c2c45cde747c8c090e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f35b738b57340ebce5ca902bc60d29a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5a42f4c9a0ec95d04b796513d159c3de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d876970b2e18201581295f6cd7a2b642/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/58e85207b86149c9c8858d59fa95caba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f6925926e09bbf059e076a3398f3f046/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb3a34788c8a7591975f9560510db2a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2aaaa45400364d9a01b95d6d70b10ec9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/15e4628a50c3b5eda11bd8402344c295/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7f9623c6c8c7847ad5c3d9dd7d5fb76d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/24070c5e869a96f2f2bfc53f705e15e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7871a6af04b7881557cc37e4a16f93b9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af5249d7b2fc238cc4d13517765c9a4e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e115ce24dc09f47bcbaf4b03f2c9f250/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c6959502a05e3a3bdea7292d874eceed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a94fec879f0ced42ccda20cc6f9b239c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bdb00b86a70fc21b5ade4c2ba8144d45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/79aeed0cebff1a497741ca0e37d72219/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5473444f95499e50a246866a35057ce3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1908d1bcdde98fd919805bf8da0f27c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd42a9e2adbff0dd107070f61c5d0df1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dce024ad308d8bc24393d18ee6c30f2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b6736a991fa3205f77a02a4eb274e474/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4360ff12674898aa5e83145f0c9cd075/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4360ff12674898aa5e83145f0c9cd075/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7871a6af04b7881557cc37e4a16f93b9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7871a6af04b7881557cc37e4a16f93b9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af5249d7b2fc238cc4d13517765c9a4e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af5249d7b2fc238cc4d13517765c9a4e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7871a6af04b7881557cc37e4a16f93b9/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.demo.small.followfingericon.MainActivity
+ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a539f0f5b4a0c92127a776934708f3da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a539f0f5b4a0c92127a776934708f3da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4360ff12674898aa5e83145f0c9cd075/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4360ff12674898aa5e83145f0c9cd075/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9ac952505fc95767898c20ad960ba3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9ac952505fc95767898c20ad960ba3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5b411c72b1a35cdfd1efc8decbe57acc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5b411c72b1a35cdfd1efc8decbe57acc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/469bf3e26574f1c2c45cde747c8c090e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/469bf3e26574f1c2c45cde747c8c090e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f35b738b57340ebce5ca902bc60d29a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/f35b738b57340ebce5ca902bc60d29a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5a42f4c9a0ec95d04b796513d159c3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/5a42f4c9a0ec95d04b796513d159c3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d876970b2e18201581295f6cd7a2b642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d876970b2e18201581295f6cd7a2b642/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/58e85207b86149c9c8858d59fa95caba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/58e85207b86149c9c8858d59fa95caba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f6925926e09bbf059e076a3398f3f046/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f6925926e09bbf059e076a3398f3f046/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb3a34788c8a7591975f9560510db2a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb3a34788c8a7591975f9560510db2a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2aaaa45400364d9a01b95d6d70b10ec9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2aaaa45400364d9a01b95d6d70b10ec9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/15e4628a50c3b5eda11bd8402344c295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/15e4628a50c3b5eda11bd8402344c295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7f9623c6c8c7847ad5c3d9dd7d5fb76d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7f9623c6c8c7847ad5c3d9dd7d5fb76d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/24070c5e869a96f2f2bfc53f705e15e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/24070c5e869a96f2f2bfc53f705e15e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7871a6af04b7881557cc37e4a16f93b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7871a6af04b7881557cc37e4a16f93b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af5249d7b2fc238cc4d13517765c9a4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/af5249d7b2fc238cc4d13517765c9a4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e115ce24dc09f47bcbaf4b03f2c9f250/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e115ce24dc09f47bcbaf4b03f2c9f250/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c6959502a05e3a3bdea7292d874eceed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/c6959502a05e3a3bdea7292d874eceed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a94fec879f0ced42ccda20cc6f9b239c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/a94fec879f0ced42ccda20cc6f9b239c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bdb00b86a70fc21b5ade4c2ba8144d45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bdb00b86a70fc21b5ade4c2ba8144d45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/79aeed0cebff1a497741ca0e37d72219/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/79aeed0cebff1a497741ca0e37d72219/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5473444f95499e50a246866a35057ce3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5473444f95499e50a246866a35057ce3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1908d1bcdde98fd919805bf8da0f27c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/1908d1bcdde98fd919805bf8da0f27c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd42a9e2adbff0dd107070f61c5d0df1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd42a9e2adbff0dd107070f61c5d0df1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dce024ad308d8bc24393d18ee6c30f2f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dce024ad308d8bc24393d18ee6c30f2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b6736a991fa3205f77a02a4eb274e474/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/jaelyn/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b6736a991fa3205f77a02a4eb274e474/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jaelyn/Documents/AnPro/FollowFingerIcon/app/src/main/AndroidManifest.xml
